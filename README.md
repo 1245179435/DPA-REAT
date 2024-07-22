@@ -3,6 +3,7 @@ this is PA-REAT office code
 
 # 1.Architecture
 we propose a novel Pyramid Attention U-Net architecture for feature extraction, which generates initial salient objects. We then build a Residuals Efficient Channel Attention Transformer network (RECA-Transformer) to refine the edge details, ultimately achieving comprehensive boundary-aware prediction of salient objects.
+
 ![最终CNN(1)](https://github.com/user-attachments/assets/7ab9da11-6cd2-4b21-8aa4-49a040b8ebaf)
 
 # 2.our result
