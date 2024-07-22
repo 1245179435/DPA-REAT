@@ -16,3 +16,8 @@ we propose a novel Pyramid Attention U-Net architecture for feature extraction, 
 # 4.Evaluation
 [Evaluation Code](https://github.com/NathanUA/Binary-Segmentation-Evaluation-Tool)
 
+# 5.Required libraries
+python==3.9
+pytorch==2.1
+
+
